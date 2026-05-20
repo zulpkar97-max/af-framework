@@ -1,7 +1,6 @@
 # af-framework
 
-**Ask First (AF) Framework** — 一个以"先问后答"为核心协议行为的人类-AI 协作方法论框架。  
-**Ask First (AF) Framework** — a methodological framework for human-AI collaboration centered on the protocol behavior of "ask first, answer second."
+**Ask First (AF) Framework** — 一个以"先问后答"为核心协议行为的人类-AI 协作方法论框架。**Ask First (AF) Framework** — a methodological framework for human-AI collaboration centered on the protocol behavior of "ask first, answer second."
 
 Author: Carl (Zulpkar Turxun) · Independent researcher · 2026-05-20
 
@@ -30,11 +29,11 @@ AF v0.1 is a methodological-implementation-layer spec. It sits beneath the Spher
 | 文件 | 说明 |
 |---|---|
 | `af-v0.1-spec.md` | AF v0.1.1 spec(中文,主版本) |
+| `af-v0.1-spec.en.md` | AF v0.1.1 spec (English translation) |
 | `cognitive-sphere-v0.0-outline.md` | 球形理论 v0.0.1 outline(中文) |
 | `cognitive-sphere-v0.0-outline.en.md` | Spherical Theory v0.0 outline (English) |
+| `ERRATA.md` | 正式更正记录 / Formal corrections record |
 | `LICENSE` | MIT License |
-
-英文版 AF spec 在准备中 / English AF spec in preparation.
 
 ---
 
@@ -45,14 +44,18 @@ AF v0.1 is a methodological-implementation-layer spec. It sits beneath the Spher
 - **Cognitive Sphere v0.0.1 outline (中文)**: [`e8a96a514ef7c479d956db0d893fb1e742e6aaec`](https://github.com/zulpkar97-max/af-framework/commit/e8a96a514ef7c479d956db0d893fb1e742e6aaec)
 - **Cognitive Sphere v0.0 outline (English)**: [`71dcbb24992f985b4d9b9a226fb87ade69c0b589`](https://github.com/zulpkar97-max/af-framework/commit/71dcbb24992f985b4d9b9a226fb87ade69c0b589)
 - **AF v0.1.1 spec (中文)**: [`5fbe6cf5ac103af9e7b1cea209dde3952502de48`](https://github.com/zulpkar97-max/af-framework/commit/5fbe6cf5ac103af9e7b1cea209dde3952502de48)
+- **AF v0.1.1 spec (English)**: [`a470ef7226c6352fdd68b732eca1ffbebc35f22e`](https://github.com/zulpkar97-max/af-framework/commit/a470ef7226c6352fdd68b732eca1ffbebc35f22e)
+- **ERRATA.md (formal correction)**: [`615d00c53eed0898cacee8209977768a3eb61ec2`](https://github.com/zulpkar97-max/af-framework/commit/615d00c53eed0898cacee8209977768a3eb61ec2)
 
 Web Archive 镜像 / Web Archive snapshots:
 
-- [Repo home, 2026-05-20 09:04:36 UTC](https://web.archive.org/web/20260520090436/https://github.com/zulpkar97-max/af-framework)
+- [Repo home, 2026-05-20 10:07:04 UTC](https://web.archive.org/web/20260520100704/https://github.com/zulpkar97-max/af-framework)
 - [Cognitive Sphere outline (中文) commit, 2026-05-20 09:09:03 UTC](https://web.archive.org/web/20260520090903/https://github.com/zulpkar97-max/af-framework/commit/e8a96a514ef7c479d956db0d893fb1e742e6aaec)
 - [Cognitive Sphere outline (English) commit, 2026-05-20 09:14:07 UTC](https://web.archive.org/web/20260520091407/https://github.com/zulpkar97-max/af-framework/commit/71dcbb24992f985b4d9b9a226fb87ade69c0b589)
+- [AF v0.1.1 spec (中文) commit, 2026-05-20 10:10:43 UTC](https://web.archive.org/web/20260520101043/https://github.com/zulpkar97-max/af-framework/commit/5fbe6cf5ac103af9e7b1cea209dde3952502de48)
+- [ERRATA.md commit, 2026-05-20 10:39:00 UTC](https://web.archive.org/web/20260520103900/https://github.com/zulpkar97-max/af-framework/commit/615d00c53eed0898cacee8209977768a3eb61ec2)
 
-AF spec commit 的 Web Archive 存档将在本次 README 更新后一并补上 / The Web Archive snapshot for the AF spec commit will be added after this README update.
+英文版 AF spec commit 的 Web Archive 存档将在本次 README 更新后补上 / The Web Archive snapshot for the English AF spec commit will be added after this README update.
 
 ---
 
@@ -70,6 +73,6 @@ MIT License — see `LICENSE`.
 
 ## Contact
 
-Author: Carl (Zulpkar Turxun)  
-Email: zulpkar97@gmail.com  
+Author: Carl (Zulpkar Turxun)
+Email: [zulpkar97@gmail.com](mailto:zulpkar97@gmail.com)
 GitHub: [@zulpkar97-max](https://github.com/zulpkar97-max)
