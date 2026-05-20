@@ -58,7 +58,7 @@ AF spec commit 的 Web Archive 存档将在本次 README 更新后一并补上 /
 
 ## Naming Note
 
-The framework name is **AF = Ask First**, as originally chosen by the author. In `cognitive-sphere-v0.0-outline.en.md` (committed 2026-05-20), AF was English-expanded as "Anchored Flow Framework"; this was an AI-proposed expansion during translation, **not the author's original naming**. From AF v0.1 onward the canonical name is **Ask First (AF) Framework**. The earlier English outline commit remains as a historical record; a formal `ERRATA.md` is planned.
+The framework name is **AF = Ask First**, as originally chosen by the author. In `cognitive-sphere-v0.0-outline.en.md` (committed 2026-05-20), AF was English-expanded as "Anchored Flow Framework"; this was an AI-proposed expansion during translation, **not the author's original naming**. From AF v0.1 onward the canonical name is **Ask First (AF) Framework**. The earlier English outline commit remains as a historical record; see [`ERRATA.md`](./ERRATA.md) for the formal correction.
 
 ---
 
