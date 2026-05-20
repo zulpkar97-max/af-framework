@@ -1,4 +1,6 @@
-# af-framework
+# Ask First (AF) Framework
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20308412.svg)](https://doi.org/10.5281/zenodo.20308412)
 
 **Ask First (AF) Framework** — 一个以"先问后答"为核心协议行为的人类-AI 协作方法论框架。**Ask First (AF) Framework** — a methodological framework for human-AI collaboration centered on the protocol behavior of "ask first, answer second."
 
@@ -45,7 +47,7 @@ AF v0.1 is a methodological-implementation-layer spec. It sits beneath the Spher
 - **Cognitive Sphere v0.0 outline (English)**: [`71dcbb24992f985b4d9b9a226fb87ade69c0b589`](https://github.com/zulpkar97-max/af-framework/commit/71dcbb24992f985b4d9b9a226fb87ade69c0b589)
 - **AF v0.1.1 spec (中文)**: [`5fbe6cf5ac103af9e7b1cea209dde3952502de48`](https://github.com/zulpkar97-max/af-framework/commit/5fbe6cf5ac103af9e7b1cea209dde3952502de48)
 - **AF v0.1.1 spec (English)**: [`a470ef7226c6352fdd68b732eca1ffbebc35f22e`](https://github.com/zulpkar97-max/af-framework/commit/a470ef7226c6352fdd68b732eca1ffbebc35f22e)
-- **ERRATA.md (formal correction)**: [`615d00c53eed0898cacee8209977768a3eb61ec2`](https://github.com/zulpkar97-max/af-framework/commit/615d00c53eed0898cacee8209977768a3eb61ec2)
+- **ERRATA.md** (formal correction): [`615d00c53eed0898cacee8209977768a3eb61ec2`](https://github.com/zulpkar97-max/af-framework/commit/615d00c53eed0898cacee8209977768a3eb61ec2)
 
 Web Archive 镜像 / Web Archive snapshots:
 
@@ -61,7 +63,7 @@ Web Archive 镜像 / Web Archive snapshots:
 
 ## Naming Note
 
-The framework name is **AF = Ask First**, as originally chosen by the author. In `cognitive-sphere-v0.0-outline.en.md` (committed 2026-05-20), AF was English-expanded as "Anchored Flow Framework"; this was an AI-proposed expansion during translation, **not the author's original naming**. From AF v0.1 onward the canonical name is **Ask First (AF) Framework**. The earlier English outline commit remains as a historical record; see [`ERRATA.md`](./ERRATA.md) for the formal correction.
+The framework name is **AF = Ask First**, as originally chosen by the author. In `cognitive-sphere-v0.0-outline.en.md` (committed 2026-05-20), AF was English-expanded as "Anchored Flow Framework"; this was an AI-proposed expansion during translation, **not the author's original naming**. From AF v0.1 onward the canonical name is **Ask First (AF) Framework**. The earlier English outline commit remains as a historical record; see `ERRATA.md` for the formal correction.
 
 ---
 
@@ -74,5 +76,5 @@ MIT License — see `LICENSE`.
 ## Contact
 
 Author: Carl (Zulpkar Turxun)
-Email: [zulpkar97@gmail.com](mailto:zulpkar97@gmail.com)
+Email: zulpkar97@gmail.com
 GitHub: [@zulpkar97-max](https://github.com/zulpkar97-max)
