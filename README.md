@@ -55,7 +55,7 @@ This work is released under the **MIT License** (see [`LICENSE`](./LICENSE)). At
 
 ## 中文摘要
 
-本仓库是 **AF 框架(Anchored Flow Framework)** 与 **球形理论(认知球体假说,Cognitive Sphere Hypothesis)** 的公开 timestamp 记录,作者 Carl(祖尔普卡尔·图尔逊江)。
+本仓库是 **AF 框架(Anchored Flow Framework)** 与 **球形理论(认知球体假说,Cognitive Sphere Hypothesis)** 的公开 timestamp 记录,作者 Carl(祖力卡尔·吐尔逊江)。
 
 仓库定位:不可篡改的原创性时间戳锚点。所有文档为 work-in-progress;完整 spec 在证据累积过程中分阶段发布。
 
