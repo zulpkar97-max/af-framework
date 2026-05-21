@@ -1,5 +1,19 @@
 # Ask First (AF) Framework
 
+> **Version and License Notice**
+>
+> AF v0.1.1 is a historical MIT release, frozen and immutable.
+>
+> AF v0.1.1 remains available on Zenodo under its original MIT terms.
+>
+> AF v0.2 uses CC BY-NC 4.0.
+>
+> Commercial use of AF v0.2+ requires separate written permission.
+>
+> Contact: zulpkar97@gmail.com.
+>
+> `CASE-STUDY-v0.1.1.md` v0.3.2 is included as a release-blocked companion draft for reference.
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20308412.svg)](https://doi.org/10.5281/zenodo.20308412)
 
 **Ask First (AF) Framework** — 一个以"先问后答"为核心协议行为的人类-AI 协作方法论框架。**Ask First (AF) Framework** — a methodological framework for human-AI collaboration centered on the protocol behavior of "ask first, answer second."
@@ -30,12 +44,15 @@ AF v0.1 is a methodological-implementation-layer spec. It sits beneath the Spher
 
 | 文件 | 说明 |
 |---|---|
-| `af-v0.1-spec.md` | AF v0.1.1 spec(中文,主版本) |
-| `af-v0.1-spec.en.md` | AF v0.1.1 spec (English translation) |
+| `af-v0.1-spec.md` | AF v0.1.1 spec, Chinese main version, historical MIT |
+| `af-v0.1-spec.en.md` | AF v0.1.1 spec, English translation, historical MIT |
+| `af-v0.2-spec.md` | AF v0.2 draft spec, CC BY-NC 4.0 |
 | `cognitive-sphere-v0.0-outline.md` | 球形理论 v0.0.1 outline(中文) |
 | `cognitive-sphere-v0.0-outline.en.md` | Spherical Theory v0.0 outline (English) |
+| `CASE-STUDY-v0.1.1.md` | Release-blocked companion draft motivating §4⑨/⑩/⑪/⑯ |
+| `LICENSE` | v0.2+ CC BY-NC 4.0 notice + v0.1.1 MIT historical notice |
+| `COMMERCIAL-LICENSE.md` | Commercial permission process |
 | `ERRATA.md` | 正式更正记录 / Formal corrections record |
-| `LICENSE` | MIT License |
 
 ---
 
@@ -69,7 +86,34 @@ The framework name is **AF = Ask First**, as originally chosen by the author. In
 
 ## License
 
-MIT License — see `LICENSE`.
+AF v0.2 and later documentation/framework text are licensed under Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0), except where otherwise noted.
+
+Official license text:
+https://creativecommons.org/licenses/by-nc/4.0/
+
+AF v0.1.1 remains MIT as a historical version.
+
+Commercial use of AF v0.2+ requires separate written permission.
+
+Contact: zulpkar97@gmail.com.
+
+This v0.2+ license transition does not revoke, withdraw, relicense, or alter the MIT terms attached to AF v0.1.1.
+
+---
+
+## Versioning Note
+
+AF v0.1.1 is a historical MIT release, frozen and immutable.
+
+AF v0.2 begins a new governance and license line.
+
+§4⑨/⑩/⑪/⑯ are v0.2 governance increments.
+
+§4⑫–⑮ are reserved for v0.3+ expansion.
+
+Motivation: `CASE-STUDY-v0.1.1.md` v0.3.2.
+
+The repository preserves historical version records. Later versions are forward updates, not rewrites of v0.1.1.
 
 ---
 
