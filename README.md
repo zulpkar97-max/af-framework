@@ -74,6 +74,17 @@ Web Archive 镜像 / Web Archive snapshots:
 - [AF v0.1.1 spec (中文) commit, 2026-05-20 10:10:43 UTC](https://web.archive.org/web/20260520101043/https://github.com/zulpkar97-max/af-framework/commit/5fbe6cf5ac103af9e7b1cea209dde3952502de48)
 - [ERRATA.md commit, 2026-05-20 10:39:00 UTC](https://web.archive.org/web/20260520103900/https://github.com/zulpkar97-max/af-framework/commit/615d00c53eed0898cacee8209977768a3eb61ec2)
 
+### AF v0.2 transition snapshots
+
+- [Repo home after v0.2 transition, 2026-05-21 10:43:48 UTC](https://web.archive.org/web/20260521104348/https://github.com/zulpkar97-max/af-framework)
+- [main README after v0.2 transition, 2026-05-21 10:53:31 UTC](https://web.archive.org/web/20260521105331/https://github.com/zulpkar97-max/af-framework/blob/main/README.md)
+- [v0.2 transition merge commit, 2026-05-21 10:54:47 UTC](https://web.archive.org/web/20260521105447/https://github.com/zulpkar97-max/af-framework/commit/4bcd9f1b7e5f50963021fb047e80db0fafacd42e)
+- [PR #1 v0.2 license transition, 2026-05-21 10:57:23 UTC](https://web.archive.org/web/20260521105723/https://github.com/zulpkar97-max/af-framework/pull/1)
+- [af-v0.2-spec.md, 2026-05-21 10:50:24 UTC](https://web.archive.org/web/20260521105024/https://github.com/zulpkar97-max/af-framework/blob/main/af-v0.2-spec.md)
+- [LICENSE after v0.2 transition, 2026-05-21 11:03:56 UTC](https://web.archive.org/web/20260521110356/https://github.com/zulpkar97-max/af-framework/blob/main/LICENSE)
+- [COMMERCIAL-LICENSE.md, 2026-05-21 11:00:30 UTC](https://web.archive.org/web/20260521110030/https://github.com/zulpkar97-max/af-framework/blob/main/COMMERCIAL-LICENSE.md)
+- [CASE-STUDY-v0.1.1.md, 2026-05-21 10:58:19 UTC](https://web.archive.org/web/20260521105819/https://github.com/zulpkar97-max/af-framework/blob/main/CASE-STUDY-v0.1.1.md)
+
 英文版 AF spec commit 的 Web Archive 存档将在本次 README 更新后补上 / The Web Archive snapshot for the English AF spec commit will be added after this README update.
 
 ---
