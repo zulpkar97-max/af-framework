@@ -1,6 +1,7 @@
 # Carrier-Agnostic AF / 载体无关 AF
 
 Status: candidate principle / non-canonical
+Language status: English working draft; Chinese-first rewrite required before promotion.
 Source: 2026-06-06 AF self-application dialogue; raw elements 5-9, 14-15, 26-29, 38
 Layer: protocol layer; application layer
 Related existing AF sections: AF as goal-unit; cross-tool execution; context disclosure
