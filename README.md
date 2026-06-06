@@ -128,6 +128,18 @@ The repository preserves historical version records. Later versions are forward 
 
 ---
 
+## AI 使用与贡献治理 / AI Use and Contribution Governance
+
+本项目使用 AI 辅助草稿、反思、文档脚手架和审查。核心理论作者身份、概念方向、采纳/否决判断和最终责任仍由 Carl (Zulpkar Turxun) 承担。
+
+This project uses AI-assisted drafting, reflection, documentation scaffolding, and review. Core theoretical authorship, conceptual direction, acceptance/rejection decisions, and final responsibility remain with Carl (Zulpkar Turxun).
+
+See:
+- `AI-USE.md`
+- `CONTRIBUTION-LOG.md`
+
+---
+
 ## Contact
 
 Author: Carl (Zulpkar Turxun)
