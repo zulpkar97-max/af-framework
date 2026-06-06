@@ -1,6 +1,7 @@
 # AF v0.3 Candidate Concepts Index
 
 Status: candidate index / non-canonical
+Language status: English working draft; Chinese-first rewrite required before promotion.
 Source: 2026-06-06 AF self-application dialogue
 Scope: v0.3+ review scaffold
 
@@ -14,11 +15,11 @@ The review baseline is: Chinese-first terminology, no invented curvature formula
 
 | Mechanism | Status | One-line summary | Related existing AF concept | Why not canonical yet | Open questions |
 |---|---|---|---|---|---|
-| [Zero-curvature baseline](zero-curvature-baseline.md) | Candidate term | Baseline alignment state where execution preserves A->F identity without unnecessary deviation. | A/F compression; path identity preservation | Curvature has not been formalized and must remain non-mathematical for now. | How can the baseline be recognized without over-formalizing it? |
-| [Curvature deviation halt](curvature-deviation-halt.md) | Candidate mechanism | Halt or clarify when a path bends away from the compressed A/F identity. | Halt on gap; high-quality deviation | Needs case testing across execution and protocol layers. | What threshold triggers halt rather than local correction? |
+| [Zero-curvature baseline](zero-curvature-baseline.md) | Candidate term | Ideal baseline for judging residual deviation from compressed A->F identity, not a success claim. | A/F compression; path identity preservation | Curvature has not been formalized and must remain non-mathematical for now. | How can residual deviation be described without inventing formulas? |
+| [Curvature deviation halt](curvature-deviation-halt.md) | Candidate mechanism | Threshold response model: low deviation continues, medium deviation recalibrates, high deviation halts or returns to human judgment. | Halt on gap; high-quality deviation | Needs case testing across execution and protocol layers. | What observable markers distinguish low, medium, and high deviation? |
 | [Recursive curvature certification](recursive-curvature-certification.md) | Candidate mechanism | Check sub-AF and micro-AF outputs against parent AF before treating them as support. | Recursive pressure testing; A/F identity | Certification procedure is not yet stable. | Who certifies: AI, user, or protocol record? |
-| [Edge-to-AF recursion](edge-to-af-recursion.md) | Candidate mechanism | Promote unresolved edges or anomalies into their own AF when local patching would distort the parent AF. | Gap halt; subgoal formation | Promotion criteria are not yet stable. | When is an edge large enough to become AF? |
-| [Event-center closure](event-center-closure.md) | Candidate mechanism | Identify when repeated dialogue branches close around a new protocol center. | Cognitive sphere outline; active graph | Needs more cases before it can be separated from ordinary summarization. | What counts as closure rather than post-hoc summary? |
+| [Edge-to-AF recursion](edge-to-af-recursion.md) | Candidate mechanism | Expand a key connection edge between AF nodes into a micro-AF when the connection cannot be assumed low-curvature. | Active graph; A/F identity; recursive pressure testing | Connection-expansion criteria are not yet stable. | When is a B-E or C-D style connection important enough to become micro-AF? |
+| [Event-center closure](event-center-closure.md) | Candidate mechanism | Closure condition where A-side compaction and F-side reverse necessity converge on an event center under low-curvature stable deviation. | Cognitive sphere outline; active graph; macro-AF preservation | Needs more cases before it can be separated from narrative reconstruction. | How is micro-AF closure recovered into macro-AF before parent closure? |
 | [Multi-scale AF encapsulation](multi-scale-af-encapsulation.md) | Candidate mechanism | Treat macro-AF, sub-AF, and micro-AF as possible nested units without requiring every sub-AF to be encapsulated. | AF as goal-unit; cross-session AF | Encapsulation rules remain candidate. | Which scales deserve protocol records? |
 | [Macro-AF preservation](macro-af-preservation.md) | Candidate mechanism | Prevent local sub-AF success from replacing or resolving the macro-AF. | Human goal ownership; F identity | Needs clearer relation to sub-AF completion. | How should macro-AF be rechecked after sub-AF completion? |
 | [F validity and A/F correspondence gate](f-validity-and-af-correspondence-gate.md) | Candidate gate | Distinguish F validity from whether A actually corresponds to F. | A/F compression; path masquerading as goal | Open A/F must not be treated as invalid. | What is the minimal gate before execution? |
