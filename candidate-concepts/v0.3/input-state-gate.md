@@ -1,6 +1,7 @@
 # Input-State Gate / 输入状态门
 
 Status: candidate gate / non-canonical
+Language status: English working draft; Chinese-first rewrite required before promotion.
 Source: 2026-06-06 AF self-application dialogue; raw elements 5-9, 18-20, 22-25
 Layer: protocol layer; application-layer relevance
 Related existing AF sections: prompt burden discipline; gap halt; human goal ownership
