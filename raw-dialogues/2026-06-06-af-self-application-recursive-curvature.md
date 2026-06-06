@@ -1,27 +1,29 @@
 # 2026-06-06 AF Self-Application Recursive Curvature
 
-Status: raw evidence / source notes
+Status: source notes / lightly structured extraction / non-canonical
 Canonical status: not spec
 Source: 2026-06-06 AF self-application dialogue and `notes/v0.3-candidate-raw-material-pool.md`
 Scope: candidate source material for v0.3+ review
 
 ## Boundary
 
-This file stores raw or lightly structured source notes extracted from the 2026-06-06 AF self-application dialogue. It is not a canonical AF section, not an amendment to AF v0.1.1, and not part of AF v0.2.
+This is not a verbatim transcript. It is a lightly structured source-note extraction from the 2026-06-06 AF self-application dialogue and the preserved raw material pool. It must not be treated as complete raw dialogue evidence.
 
-The complete preserved raw material is in `notes/v0.3-candidate-raw-material-pool.md`. This file exists to preserve the recursive-curvature and multi-scale AF thread as raw evidence for the candidate structure under `candidate-concepts/v0.3/`.
+This file is not a canonical AF section, not an amendment to AF v0.1.1, and not part of AF v0.2.
+
+The complete preserved raw material is in `notes/v0.3-candidate-raw-material-pool.md`. This file exists to preserve the recursive-curvature and multi-scale AF thread as source notes for the candidate structure under `candidate-concepts/v0.3/`.
 
 ## Source Center
 
 AF/AIFF's core is not making AI better at execution. The core is helping humans define the problem itself under natural expression, dynamic demand, path fixation, context branching, and paradigm pressure, while protecting A->F goal identity from being replaced by smooth execution.
 
-## Raw Mechanism Signals
+## Source-Note Mechanism Signals
 
-- Zero-curvature baseline: when A and F are sufficiently compressed, a path can be treated as aligned only while it preserves A->F identity without substituting a convenient F'.
-- Curvature deviation halt: when a path begins to bend away from the compressed A/F identity, execution should halt or return to clarification rather than continue smoothly.
+- Zero-curvature baseline: an ideal baseline for A/F alignment, not a factual claim of success.
+- Curvature deviation threshold: low deviation may continue; medium deviation may clarify, recursively expand, or recalibrate; high deviation may halt, abort, or return to human judgment.
 - Recursive curvature certification: sub-AF or micro-AF work should be checked against the parent AF before its output is treated as supporting the parent goal.
-- Edge-to-AF recursion: an edge case, unresolved gap, or path anomaly may need to be promoted into its own AF rather than patched inside the current path.
-- Event-center closure: a dense dialogue event can close around a new center when repeated branches converge on the same unresolved protocol issue.
+- Edge-to-AF recursion / 连接边递归 AF 化: a key connection between two AF nodes, such as B-E or C-D, may itself need micro-AF expansion when the connection cannot be assumed as low-curvature.
+- Event-center closure: A-side compaction and F-side reverse necessity converge on an event center under low-curvature stable deviation; micro-AF closure must be recoverable into macro-AF before the parent AF is considered closed.
 - Multi-scale AF encapsulation: macro-AF, sub-AF, and micro-AF can exist at different scales, but encapsulation is candidate behavior, not mandatory canonical behavior.
 - Macro-AF preservation: sub-AF progress must not replace the macro-AF or make local success appear to settle the larger goal.
 - F validity and A/F correspondence gate: execution should distinguish whether F is valid, whether A corresponds to F, and whether an apparent goal is actually a path pretending to be F.
@@ -42,4 +44,4 @@ AF/AIFF's core is not making AI better at execution. The core is helping humans 
 
 ## Non-Canonical Use
 
-This file may be used as evidence input for future v0.3 candidate review. It should not be cited as a finished rule, finalized terminology, or proof that any candidate mechanism is correct.
+This file may be used as source-note input for future v0.3 candidate review. It should not be cited as a finished rule, finalized terminology, complete transcript, or proof that any candidate mechanism is correct.
