@@ -1,6 +1,7 @@
 # Recursive Curvature Certification / 递归曲率认证
 
 Status: candidate mechanism / non-canonical
+Language status: English working draft; Chinese-first rewrite required before promotion.
 Source: 2026-06-06 AF self-application dialogue; raw elements 14-17, 34, 48-50
 Layer: protocol layer; applies across macro-AF, sub-AF, and micro-AF
 Related existing AF sections: recursive pressure testing; A/F identity preservation; AF as goal-unit
