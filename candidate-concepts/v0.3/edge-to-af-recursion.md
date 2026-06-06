@@ -1,12 +1,13 @@
-# Edge-to-AF Recursion / 边缘到 AF 递归
+# Edge-to-AF Recursion / 连接边递归 AF 化
 
 Status: candidate mechanism / non-canonical
-Source: 2026-06-06 AF self-application dialogue; raw elements 3, 10-15, 24-25, 48
+Language status: English working draft; Chinese-first rewrite required before promotion.
+Source: 2026-06-06 AF self-application dialogue; raw elements 10-17, 24-27, 34, 48-50
 Layer: protocol layer; can trigger application-layer work
-Related existing AF sections: gap halt; sub-F generation; target/path distinction
-Summary: A candidate mechanism for promoting an edge, anomaly, or unresolved gap into its own AF when local handling would distort the parent AF.
-Proposed rule: When an edge case repeatedly changes interpretation, tool route, evidence standard, or goal boundary, it should be considered for promotion into a separate AF rather than patched inside the current path.
-Why this matters: Some edge cases are not small defects. They reveal a new problem-definition center and can become the next AF unit.
-What this is not: This is not a claim that every edge requires AF encapsulation, not a license for infinite recursion, and not ordinary issue triage.
-Open questions: What distinguishes a true AF-promotable edge from local complexity? How should the parent AF remain active during edge promotion?
-Review risks: Exploding the protocol into too many AF units; losing macro-AF continuity; treating interesting branches as necessary branches.
+Related existing AF sections: A/F identity preservation; recursive pressure testing; active graph; macro-AF / sub-AF / micro-AF distinction
+Summary: A candidate mechanism for expanding a key connection between two AF nodes into a micro-AF when that connection cannot be assumed as low-curvature.
+Proposed rule: When a connection edge between two AF nodes, such as B-E or C-D, carries non-trivial assumptions, hidden evidence requirements, disputed necessity, or possible path substitution, the connection itself may be recursively expanded into a micro-AF for clarification before the parent AF treats the edge as stable.
+Why this matters: The risk is not mainly an edge case or anomaly. The risk is that a connection that looks like a simple low-curvature bridge may actually contain unresolved A/F correspondence, evidence, or necessity questions. Expanding the edge protects macro-AF continuity without pretending the connection is already certified.
+What this is not: This is not ordinary edge-case handling, not issue triage, not a claim that every connection must become an AF, and not a license for infinite recursion.
+Open questions: What makes a connection edge sufficiently important to expand? How should B-E or C-D style links be named in public Chinese-first terminology? How does the parent AF remain recoverable while the edge is expanded?
+Review risks: Reverting to edge-case language; expanding every link into protocol overhead; losing macro-AF continuity; treating connection expansion as canonical rather than candidate.
