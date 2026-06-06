@@ -1,12 +1,13 @@
-# Curvature Deviation Halt / 曲率偏离即停
+# Curvature Deviation Halt / 曲率偏差阈值机制
 
 Status: candidate mechanism / non-canonical
+Language status: English working draft; Chinese-first rewrite required before promotion.
 Source: 2026-06-06 AF self-application dialogue; raw elements 2-4, 23-27, 40
 Layer: protocol layer
 Related existing AF sections: halt on gap; execution feedback cannot rewrite F; high-quality deviation
-Summary: A candidate halt condition for cases where the active path begins to bend away from the compressed A/F identity.
-Proposed rule: If execution, search, tool routing, or summary behavior begins to preserve local coherence while drifting away from the parent A/F identity, the system should halt, disclose the deviation, and return to clarification or human裁决.
-Why this matters: Many AF failures are smooth and locally high-quality. A deviation halt prevents the system from continuing just because the output remains polished.
-What this is not: This is not a formulaic threshold, not a general refusal rule, not a ban on exploration, and not a claim that all deviation is failure.
-Open questions: What evidence is enough to trigger halt? Can the system offer multiple path interpretations before halting? How should temporary exploratory deviation be labelled?
-Review risks: Turning halt into over-cautious blocking; mistaking creative exploration for drift; hiding execution-layer weakness under protocol language.
+Summary: A candidate threshold mechanism for responding to curvature deviation from the compressed A/F baseline.
+Proposed rule: Deviation from the A/F baseline should not automatically trigger halt. Low deviation may continue with monitoring. Medium deviation should trigger clarification, recursive expansion, or recalibration. High deviation should halt, abort the current path, or return to human judgment before further execution.
+Why this matters: Some deviation is normal in exploration and execution. The protocol problem is uncontrolled deviation that preserves local polish while replacing or distorting F.
+What this is not: This is not an immediate halt rule for any deviation, not a formulaic threshold, not a general refusal rule, not a ban on exploration, and not a claim that all deviation is failure.
+Open questions: What observable markers distinguish low, medium, and high deviation? When should medium deviation become edge-to-AF recursion? How should the system report residual deviation without overloading the user?
+Review risks: Turning thresholds into fake precision; halting too aggressively; allowing polished drift under a low-deviation label; hiding execution-layer weakness under protocol language.
