@@ -1,6 +1,7 @@
 # F Validity and A/F Correspondence Gate / F 有效性与 A/F 对应门
 
 Status: candidate gate / non-canonical
+Language status: English working draft; Chinese-first rewrite required before promotion.
 Source: 2026-06-06 AF self-application dialogue; raw elements 1-4, 19, 22-24
 Layer: protocol layer
 Related existing AF sections: A/F compression; target/path distinction; human goal ownership
