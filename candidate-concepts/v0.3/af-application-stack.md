@@ -1,6 +1,7 @@
 # AF Application Stack / AF 应用栈
 
 Status: candidate stack / non-canonical
+Language status: English working draft; Chinese-first rewrite required before promotion.
 Source: 2026-06-06 AF self-application dialogue; raw elements 21, 26-30, 33-40, 41-42
 Layer: theory layer, protocol layer, application layer, execution layer
 Related existing AF sections: protocol layer vs execution layer; human goal ownership; tool route disclosure
