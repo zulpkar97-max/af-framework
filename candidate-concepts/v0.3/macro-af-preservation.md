@@ -1,6 +1,7 @@
 # Macro-AF Preservation / 宏观 AF 保真
 
 Status: candidate mechanism / non-canonical
+Language status: English working draft; Chinese-first rewrite required before promotion.
 Source: 2026-06-06 AF self-application dialogue; raw elements 2-4, 10-11, 27, 34, 42
 Layer: protocol layer
 Related existing AF sections: F identity; human goal ownership; execution feedback cannot modify goal
