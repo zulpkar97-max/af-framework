@@ -1,6 +1,7 @@
 # Multi-Scale AF Encapsulation / 多尺度 AF 封装
 
 Status: candidate mechanism / non-canonical
+Language status: English working draft; Chinese-first rewrite required before promotion.
 Source: 2026-06-06 AF self-application dialogue; raw elements 12-17, 34, 48-50
 Layer: protocol layer; theory-layer adjacency
 Related existing AF sections: AF as goal-unit; cross-session AF; recursive pressure testing
