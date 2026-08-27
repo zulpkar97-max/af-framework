@@ -11,14 +11,24 @@
 > Commercial use of AF v0.2+ requires separate written permission.
 >
 > Contact: zulpkar97@gmail.com.
+
+> **Repository role:** public publication, timestamp, license, citation, and future formal-release record.
 >
-> `CASE-STUDY-v0.1.1.md` v0.3.2 is included as a release-blocked companion draft for reference.
+> This repository is not the current AF canonical research repository.
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20308412.svg)](https://doi.org/10.5281/zenodo.20308412)
 
 **Ask First (AF) Framework** — 一个以"先问后答"为核心协议行为的人类-AI 协作方法论框架。**Ask First (AF) Framework** — a methodological framework for human-AI collaboration centered on the protocol behavior of "ask first, answer second."
 
 Author: Carl (Zulpkar Turxun) · Independent researcher · 2026-05-20
+
+## Lifecycle / 生命周期
+
+1. **Published v0.1.1** — historical MIT publication, frozen at tag `v0.1.1`.
+2. **Historical public development v0.2 transition** — later governance and license-transition records remain public history.
+3. **Historical research material via history/PR** — candidate concepts, raw dialogue, review material, and the release-blocked case-study material remain recoverable from Git history and merged pull requests; they are not current-tree publication artifacts and the case study is not claimed as a published artifact.
+4. **Current development boundary** — this public main retains the publication, timestamp, license, citation, authorship/contribution, and formal-release boundary files. The private/internal AF Runtime companion is [af-lab](https://github.com/zulpkar97-max/af-lab); it is not a public research mirror.
+5. **Future** — any formal release or new public surface requires separate Human authorization and review.
 
 ---
 
@@ -49,7 +59,6 @@ AF v0.1 is a methodological-implementation-layer spec. It sits beneath the Spher
 | `af-v0.2-spec.md` | AF v0.2 draft spec, CC BY-NC 4.0 |
 | `cognitive-sphere-v0.0-outline.md` | 球形理论 v0.0.1 outline(中文) |
 | `cognitive-sphere-v0.0-outline.en.md` | Spherical Theory v0.0 outline (English) |
-| `CASE-STUDY-v0.1.1.md` | Release-blocked companion draft motivating §4⑨/⑩/⑪/⑯ |
 | `LICENSE` | v0.2+ CC BY-NC 4.0 notice + v0.1.1 MIT historical notice |
 | `COMMERCIAL-LICENSE.md` | Commercial permission process |
 | `ERRATA.md` | 正式更正记录 / Formal corrections record |
@@ -122,7 +131,7 @@ AF v0.2 begins a new governance and license line.
 
 §4⑫–⑮ are reserved for v0.3+ expansion.
 
-Motivation: `CASE-STUDY-v0.1.1.md` v0.3.2.
+Historical research material referenced by earlier development remains available through Git history and merged pull requests.
 
 The repository preserves historical version records. Later versions are forward updates, not rewrites of v0.1.1.
 
