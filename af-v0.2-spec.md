@@ -18,7 +18,7 @@ AF v0.2 的新增范围聚焦于两件事：
 1. 建立 v0.2+ 的 CC BY-NC 4.0 授权线。
 2. 正式纳入 §4⑨/⑩/⑪/⑯ governance increments，并将 §4⑫–⑮ 保留给 v0.3+ expansion。
 
-本文件为 v0.2 draft / release-blocked。英文条文仍需协议层翻译审，CASE-STUDY-v0.1.1.md v0.3.2 仍为 release-blocked companion draft。
+本文件为 v0.2 draft / release-blocked。英文条文仍需协议层翻译审。CASE-STUDY-v0.1.1.md v0.3.2 是历史 release-blocked companion draft，不在当前 main tree；其历史内容通过 Git history 与 Web Archive（2026-05-21 10:58:19 UTC）保留/可恢复，不是已发布的 v0.1.1 artifact，也不是 current canonical research truth。
 
 ## 1. License Statement
 
@@ -93,7 +93,7 @@ English clause: [待协议层翻译审]
 
 ## 4. Motivation References
 
-The motivation evidence for §4⑨/⑩/⑪/⑯ comes from `CASE-STUDY-v0.1.1.md` v0.3.2.
+The motivation evidence for §4⑨/⑩/⑪/⑯ comes from the historical, release-blocked companion draft `CASE-STUDY-v0.1.1.md` v0.3.2, which is not present in the current main tree and is preserved/recoverable through Git history and the Web Archive anchor dated 2026-05-21 10:58:19 UTC. It is not a published v0.1.1 artifact or current canonical research truth.
 
 Reference mapping:
 
@@ -103,12 +103,12 @@ Reference mapping:
 - Cycle 3 is related to §4⑯ Tool Capability Verification / 工具能力验证, but Cycle 3 remains pending because the Carl 校准句 is still [待补].
 - Cycle 4 and Cycle 6 remain relevant protocol-layer evidence for v0.2 governance review, but do not by themselves add new §4 entries in this draft.
 
-`CASE-STUDY-v0.1.1.md` v0.3.2 remains a release-blocked companion draft. It is included for reference and motivation, not as final publication.
+The historical `CASE-STUDY-v0.1.1.md` v0.3.2 remains a release-blocked companion draft. It is not present in the current main tree and is included only through its preserved Git/Web Archive history for reference and motivation, not as final publication or current canonical research truth.
 
 ## 5. Open Blockers
 
 - §4⑨/⑩/⑪/⑯ English clauses are [待协议层翻译审].
-- `CASE-STUDY-v0.1.1.md` v0.3.2 remains release-blocked.
+- Historical `CASE-STUDY-v0.1.1.md` v0.3.2 remains release-blocked and is not present in the current main tree.
 - Cycle 2 / Cycle 3 校准句 remain [待补]; if no auditable source appears later, they remain unclosed.
 - DOI / repo / commit references require verification.
 - §4⑫–⑮ are reserved for v0.3+ expansion.

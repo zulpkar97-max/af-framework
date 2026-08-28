@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: "Ask First (AF) Framework"
+version: 0.1.1
+date-released: 2026-05-20
+message: "If you use this published AF v0.1.1 release, please cite it as the historical MIT publication. AF v0.2 remains a separate draft and is not represented by this citation entry."
+type: software
+authors:
+  - family-names: Turxun
+    given-names: "Carl (Zulpkar)"
+repository-code: "https://github.com/zulpkar97-max/af-framework"
+doi: 10.5281/zenodo.20308412
+license: MIT
+url: "https://doi.org/10.5281/zenodo.20308412"

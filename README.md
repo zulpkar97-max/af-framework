@@ -27,7 +27,7 @@ Author: Carl (Zulpkar Turxun) · Independent researcher · 2026-05-20
 1. **Published v0.1.1** — historical MIT publication, frozen at tag `v0.1.1`.
 2. **Historical public development v0.2 transition** — later governance and license-transition records remain public history.
 3. **Historical research material via history/PR** — candidate concepts, raw dialogue, review material, and the release-blocked case-study material remain recoverable from Git history and merged pull requests; they are not current-tree publication artifacts and the case study is not claimed as a published artifact.
-4. **Current development boundary** — this public main retains the publication, timestamp, license, citation, authorship/contribution, and formal-release boundary files. The private/internal AF Runtime companion is [af-lab](https://github.com/zulpkar97-max/af-lab); it is not a public research mirror.
+4. **Current development boundary** — this public main retains the publication, timestamp, license, citation, authorship/contribution, and formal-release boundary files. The private/internal AF Runtime companion is [af-runtime](https://github.com/zulpkar97-max/af-runtime); it is not a public research mirror.
 5. **Future** — any formal release or new public surface requires separate Human authorization and review.
 
 ---
@@ -57,6 +57,7 @@ AF v0.1 is a methodological-implementation-layer spec. It sits beneath the Spher
 | `af-v0.1-spec.md` | AF v0.1.1 spec, Chinese main version, historical MIT |
 | `af-v0.1-spec.en.md` | AF v0.1.1 spec, English translation, historical MIT |
 | `af-v0.2-spec.md` | AF v0.2 draft spec, CC BY-NC 4.0 |
+| `CITATION.cff` | GitHub native citation metadata for the published v0.1.1 release |
 | `cognitive-sphere-v0.0-outline.md` | 球形理论 v0.0.1 outline(中文) |
 | `cognitive-sphere-v0.0-outline.en.md` | Spherical Theory v0.0 outline (English) |
 | `LICENSE` | v0.2+ CC BY-NC 4.0 notice + v0.1.1 MIT historical notice |
@@ -148,6 +149,10 @@ See:
 - `CONTRIBUTION-LOG.md`
 
 ---
+
+## Citation
+
+`CITATION.cff` is the GitHub native citation metadata entrypoint. The current published citation is v0.1.1; v0.2 remains draft / release-blocked.
 
 ## Contact
 
