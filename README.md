@@ -154,3 +154,18 @@ See:
 Author: Carl (Zulpkar Turxun)
 Email: zulpkar97@gmail.com
 GitHub: [@zulpkar97-max](https://github.com/zulpkar97-max)
+
+## 仓库结构 / Repository map
+
+| 路径 / Path | 中文用途 | English purpose |
+| --- | --- | --- |
+| `af-v0.1-spec*.md` | v0.1.1 历史发布规范 | Historical v0.1.1 publication specifications |
+| `af-v0.2-spec.md` | v0.2 规范与许可转移记录 | v0.2 specification and license-transition record |
+| `cognitive-sphere-v0.0-outline*.md` | 早期理论 outline | Early theory outlines |
+| `LICENSE` / `COMMERCIAL-LICENSE.md` | 许可边界 | License boundaries |
+| `ERRATA.md` | 正式更正记录 | Formal corrections record |
+| `AI-USE.md` / `CONTRIBUTION-LOG.md` | AI 使用、作者与贡献 provenance | AI-use, authorship and contribution provenance |
+
+## 当前边界 / Current boundaries
+
+本仓库承担公开发布、时间锚点、许可、引用与未来正式 release 记录；它不是当前 AF Runtime source。/ This repository carries public publication, timestamps, licensing, citation and future formal-release records; it is not the current AF Runtime source.
